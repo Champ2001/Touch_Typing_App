@@ -1,3 +1,6 @@
+![image](https://github.com/Champ2001/Touch_Typing_App/assets/95713320/560ae7c5-4adb-4d5f-bc05-06d861236b2a)
+![image](https://github.com/Champ2001/Touch_Typing_App/assets/95713320/e578d802-5d98-4b51-8ad9-8f79cba306fe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
