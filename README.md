@@ -1,18 +1,18 @@
 Problem statement:
 
-    Build a web-based application for touch typing.I have taken inspiration from other touch typing websites like monkeytype for building this project.
+Build a web-based application for touch typing.I have taken inspiration from other touch typing websites like monkeytype for building this project.
 
 Technology Used:
 
-    React Js
-    Java Script
-    HTML
-    CSS
+React Js
+Java Script
+HTML
+CSS
 
 Features:
 
-    WPM
-    Accuracy
+WPM
+Accuracy
     
 
 Install
@@ -25,11 +25,11 @@ npm start
 
 Source Code:
 
-    Link : https://github.com/Champ2001/Touch_Typing_App
+Link : https://github.com/Champ2001/Touch_Typing_App
 
 Deployment Link:
 
-    Link : https://touchtypingsarnava.netlify.app
+Link : https://touchtypingsarnava.netlify.app
 
 
 Live Screenshots of the project
